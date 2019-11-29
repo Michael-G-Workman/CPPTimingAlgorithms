@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	// create a type for seconds
-	typedef int seconds;
+	typedef double seconds;
 
 	// create vector and populate with consecutive integers
 	vector<int> v(1000000);
