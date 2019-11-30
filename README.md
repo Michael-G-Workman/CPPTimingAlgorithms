@@ -8,3 +8,5 @@ integer numbers. The vector sort method should be able to sort the consecutive v
 faster than sorting a shuffled vector.
 
 This example freely distributable under terms of MIT open source license
+
+michael DOT g DOT workman AT gmail DOT COM
