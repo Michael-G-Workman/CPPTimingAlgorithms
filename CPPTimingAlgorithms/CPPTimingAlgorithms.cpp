@@ -1,6 +1,9 @@
 // CPPTimingAlgorithms.cpp - by Michael G. Workman
 //
 // This C++ console application shows how to time algorithms using the clock
+//
+// This example freely distributable under terms of MIT open source license
+
 #include <iostream>
 #include <algorithm>
 #include <ctime>
