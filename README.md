@@ -9,4 +9,4 @@ faster than sorting a shuffled vector.
 
 This example freely distributable under terms of MIT open source license
 
-michael DOT g DOT workman AT gmail DOT COM
+michael.g.workman@gmail.com
